@@ -1,0 +1,30 @@
+.div1{
+    margin-left: 40%;
+    margin-top: 20%;
+}
+#plus,#moins,#num,#reset{
+    font-size: x-large;
+}
+body{
+    background: linear-gradient(90deg,rgb(157, 5, 157),rgb(31, 85, 235));
+}
+
+#reset{
+    margin-left: 50px;
+}
+#num{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(23, 23, 23);
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 6px;
+    margin-left: 10%;
+    margin-top: -5%;
+}
+#moins{
+    margin-left: 19%;
+    margin-top: -5%;
+}
